@@ -42,3 +42,17 @@ permet d'enregistrer définitivement nos
 modifications, en y attachant un message
 personalisé, sensé décrire les modifications
 effectués.
+
+===========================================
+
+commande : git config user.name <nom>
+
+description : configure le nom utilisé pour
+signer les paquets.
+
+===========================================
+
+commande : git config user.email <email>
+
+description : configure l'adresse email
+utilisée pour signer les paquets.
