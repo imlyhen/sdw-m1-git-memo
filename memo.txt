@@ -4,3 +4,14 @@ description : initialiser un projet git
 dans le dossier dans lequel on se situe.
 
 ==========================================
+
+commande : git status
+
+description : fait le bilan de l'état actuel
+de note projet git.
+- indique toujours que l'on est sur la
+branche "master"
+- en rouge : les modifications qui ne seront
+pas enregistrées
+- en vert : les modifications qui seront
+enregistrées
